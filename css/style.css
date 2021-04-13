@@ -1,0 +1,25 @@
+html,
+body,
+header,
+#intro {
+    height: 70%;
+}
+
+#intro {
+    background: url("https://i.postimg.cc/L5jyyRGB/PORTADA.png")no-repeat center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.text-block {
+  position: absolute;
+  bottom: 300px;
+  right: 20px;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
