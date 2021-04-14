@@ -59,7 +59,7 @@ body{
     left: 0;
     height: 100%;
     width: 100%;
-    background:#b2ff59;
+    background:#00b8d4;
     transform: scaleX(0);
     transition: transform 0.5s ease-in-out;
     transform-origin: right;
